@@ -4,15 +4,17 @@
 
 ---
 
-## 1. Palveluntarjoaja
+**Palveluntarjoaja:**
 
-CanineNote on digitaalinen asiakas- ja käyntikirjaussovellus, jonka tarjoaa:
+Reponen Valeria (Yksityinen elinkeinonharjoittaja)
 
-**Valerian – Lemmikkien hyvinvointipalvelut**
+**Markkinointinimi:**
 
-**Y-tunnus:** 3581508-2
+Valerian – Lemmikkien hyvinvointipalvelut
 
-**Yhteydenotot:** caninenoteapp@outlook.com
+**Y-tunnus:**
+
+3581508-2
 
 ---
 
