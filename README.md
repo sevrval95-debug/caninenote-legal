@@ -1,9 +1,17 @@
-# CanineNote Legal
+# CanineNote Legal Documents
 
-Official legal documents for CanineNote.
+Welcome to the official legal documentation for CanineNote.
 
-- Privacy Policy
-- Terms of Service
+## Documents
 
-Contact:
+- [Privacy Policy](privacy-policy)
+- [Terms of Service](terms-of-service)
+
+## Contact
+
+Email:
 caninenoteapp@outlook.com
+
+Developer:
+Reponen Valeria
+Markkinointinimi: Valerian – Lemmikkien hyvinvointipalvelut
