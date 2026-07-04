@@ -6,11 +6,21 @@
 
 ## 1. Rekisterinpitäjä
 
-**Valerian – Lemmikkien hyvinvointipalvelut**
+**Palveluntarjoaja:**
 
-**Y-tunnus:** 3581508-2
+Reponen Valeria (Yksityinen elinkeinonharjoittaja)
 
-**Sähköposti:** caninenoteapp@outlook.com
+**Markkinointinimi:**
+
+Valerian – Lemmikkien hyvinvointipalvelut
+
+**Y-tunnus:**
+
+3581508-2
+
+**Sähköposti:**
+
+caninenoteapp@outlook.com
 
 ---
 
