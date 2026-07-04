@@ -44,6 +44,8 @@ Kokeilujakson jälkeen palvelun käyttö edellyttää voimassa olevaa kuukausiti
 
 Tilaukset, maksut, uusimiset ja peruutukset käsitellään Google Playn kautta Google Playn omien ehtojen mukaisesti.
 
+Tilauksen hinta, laskutuskausi ja mahdolliset hinnanmuutokset ilmoitetaan käyttäjälle ennen tilauksen tekemistä Google Playn maksunäkymässä.
+
 ---
 
 ## 5. Käyttäjän vastuu
